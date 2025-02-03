@@ -5,7 +5,7 @@
         "properties": {
             "title": "HAFN Standard - Azure Solution Foundation",
             "steps": [
-                { // Basics blade
+                { 
                     "name": "basics",
                     "label": "Deployment Settings",
                     "elements": [
@@ -90,7 +90,7 @@
                         }
                     ]
                 },
-                { // Core blade
+                { 
                     "name": "core",
                     "label": "Solution Foundation Initial Setup",
                     "subLabel": {
@@ -326,7 +326,7 @@
                         }
                     ]
                 },
-                { // CPS Management blade
+                { 
                     "name": "management",
                     "label": "Platform management, security, and governance",
                     "subLabel": {
@@ -928,7 +928,7 @@
                         }
                     ]
                 },
-                { // CPS Monitor blade
+                { 
                     "name": "monitor",
                     "label": "Baseline alerts and monitoring",
                     "subLabel": {
@@ -1383,7 +1383,7 @@
                         }
                     ]
                 },
-                { // CPS Connectivity blade
+                { 
                     "name": "connectivity",
                     "label": "Network topology and connectivity",
                     "subLabel": {
@@ -4302,7 +4302,7 @@
                         }
                     ]
                 },
-                { // CPS Identity blade
+                { 
                     "name": "identity",
                     "label": "Identity",
                     "subLabel": {
@@ -4564,7 +4564,7 @@
                         }
                     ]
                 },
-                { // CAS blade
+                { 
                     "name": "landingZones",
                     "label": "Cloud Application Solution",
                     "subLabel": {
@@ -5371,7 +5371,7 @@
                         }
                     ]
                 },
-                { // Additional, workload-specific blade
+                { 
                     "name": "workloadspecific",
                     "label": "Workload Specific Compliance",
                     "elements": [
@@ -8149,7 +8149,7 @@
                         }
                     ]
                 },
-                { // Sandbox blade
+                { 
                     "name": "decommissionedSandboxZones",
                     "label": "Decommissioned/Sandbox",
                     "subLabel": {
@@ -8254,7 +8254,7 @@
                         }
                     ]
                 },
-                { // Regulatory Compliance blade
+                { 
                     "name": "regulatory",
                     "label": "Regulatory Compliance",
                     "elements": [
